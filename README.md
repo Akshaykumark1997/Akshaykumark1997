@@ -8,5 +8,6 @@ I'm a results-driven MERN stack developer who is passionate about creating innov
 - 📫 How to reach me: akshayajith40@gmail.com
 
 🏷️Skills
-`react js` `node js` mongoDB` `express js` `javascript` `html` `css` `tailwind` `bootstrap` `redux` `npm` `prettier` `eslint` `aws ec2` `nginx` postgresql` `figma`
+
+`react js` `node js` `mongoDB` `express js` `javascript` `html` `css` `tailwind` `bootstrap` `redux` `npm` `prettier` `eslint` `aws ec2` `nginx` `postgresql` `figma`
 
