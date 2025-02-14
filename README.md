@@ -9,6 +9,6 @@ I'm a results-driven MERN stack developer who is passionate about creating innov
 
 🏷️Skills
 
-`react js` `node js` `mongoDB` `express js` `javascript` `html` `css` `tailwind` `bootstrap` `redux` `npm` `prettier` `eslint` `aws ec2` `nginx` `postgresql` `figma`
-`typescript` `next js`  `react native`
+`react js` `node js` `mongoDB` `express js` `javascript` `html` `css` `tailwind` `bootstrap` `redux` `npm` `prettier` `eslint` `aws ec2` `nginx` `MySQL` `figma`
+`typescript` `next js` `react native`
 
