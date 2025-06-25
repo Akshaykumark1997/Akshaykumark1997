@@ -1,10 +1,10 @@
 ### Hi👋, I'm  AKSHAY
 
-I'm a results-driven MERN stack developer who is passionate about creating innovative and efficient solutions to complex web development challenges. With a strong foundation in MongoDB, ExpressJS, ReactJS and NodeJS. I'm confident in my ability to deliver high-quality web applications that prioritize user experience and accessiblility.
+I’m a MERN stack developer with a strong foundation in MongoDB, ExpressJS, ReactJS, SQL, and NodeJS, and also a mobile app developer with React Native. I’m passionate about building efficient solutions that focus on user experience and accessibility.
 
 - 🔭I'm currently working at Appmakers
 - 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on Javascript, React etc..
+- 👯 I’m looking to collaborate on JavaScript, React, etc..
 - 📫 How to reach me: akshayajith40@gmail.com
 
 🏷️Skills
