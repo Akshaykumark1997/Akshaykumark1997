@@ -9,6 +9,6 @@ I’m a MERN stack developer with a strong foundation in MongoDB, ExpressJS, Rea
 
 🏷️Skills
 
-`react js` `node js` `mongoDB` `express js` `javascript` `html` `css` `tailwind` `bootstrap` `redux` `npm` `prettier` `eslint` `aws ec2` `nginx` `MySQL` `figma`
+`react js` `node js` `mongoDB` `express js` `javascript` `html` `css` `tailwind` `bootstrap` `redux` `prettier` `eslint` `aws ec2` `nginx` `MySQL` `figma`
 `typescript` `next js` `react native`
 
